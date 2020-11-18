@@ -34,7 +34,7 @@
   "devDependencies": {
     "@types/jest": "^24.0.0",
     "@types/node": "^12.0.0",
-    "@midwayjs/faas-cli": "latest",
+    "@midwayjs/faas-cli": "1.2.14",
     "@midwayjs/fcli-plugin-fc": "*",
     "typescript": "~3.7.2"
   }
