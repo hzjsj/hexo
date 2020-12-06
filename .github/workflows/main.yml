@@ -17,7 +17,7 @@ jobs:
           secretId: ${{ secrets.SECRET_ID }}
           secretKey: ${{ secrets.SECRET_KEY }}
           # 云开发的环境id
-          envId: svip9
+          envId: ${{ secrets.ENV_ID }}
           # Github 项目静态文件的路径
           staticSrcPath: public
           # staticDestPath: blog
