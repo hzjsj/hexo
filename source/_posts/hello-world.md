@@ -1,5 +1,6 @@
 ---
 title: Hello Midway FaaS
+cover_picture: https://687a-hzpc-1258873690.tcb.qcloud.la/cloudbase-cms/upload/2020-12-06/8oo1581iypcwv339ogvx4gbxd44fgtvk-Midway%20.png
 ---
 
 Midway FaaS 是用于构建 Node.js 云函数的 Serverless 框架。帮助您在云原生时代大幅降低维护成本，更专注于产品研发。<br />

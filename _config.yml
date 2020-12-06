@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hello Midway FaaS
-subtitle: 'Run hexo on serverless by midway-faas'
-description: ''
+title: 王秀龙的博客
+subtitle: '王秀龙的博客'
+description: '王秀龙的博客'
 keywords:
-author: midwayjs
+author: 王秀龙
 language: cn
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.kdsa.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: miho
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
